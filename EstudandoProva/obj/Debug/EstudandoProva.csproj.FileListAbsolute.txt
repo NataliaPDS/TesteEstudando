@@ -1,0 +1,12 @@
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\bin\Debug\EstudandoProva.exe.config
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\bin\Debug\EstudandoProva.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\bin\Debug\EstudandoProva.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.Menu.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.Properties.Resources.resources
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.csproj.GenerateResource.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.exe
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.pdb
+C:\Users\2022102020084\Downloads\2B INFORMATICA\Programação\2 Bimestre\EstudandoProva\EstudandoProva\obj\Debug\EstudandoProva.Divisao.resources
