@@ -40,7 +40,7 @@ namespace EstudandoProva
             else
             {
                 sexo = radioButton2.Text;
-                MessageBox.Show(sexo);
+                MessageBox.Show(sexo);//test
             }
         }
     }
