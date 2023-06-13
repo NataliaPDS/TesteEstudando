@@ -38,7 +38,7 @@
             // 
             // tx_divisao
             // 
-            this.tx_divisao.Location = new System.Drawing.Point(329, 288);
+            this.tx_divisao.Location = new System.Drawing.Point(546, 185);
             this.tx_divisao.Name = "tx_divisao";
             this.tx_divisao.Size = new System.Drawing.Size(75, 23);
             this.tx_divisao.TabIndex = 0;
@@ -50,7 +50,7 @@
             // 
             this.groupBox1.Controls.Add(this.radioButton2);
             this.groupBox1.Controls.Add(this.radioButton1);
-            this.groupBox1.Location = new System.Drawing.Point(377, 104);
+            this.groupBox1.Location = new System.Drawing.Point(12, 26);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 100);
             this.groupBox1.TabIndex = 1;
@@ -82,7 +82,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(462, 210);
+            this.button1.Location = new System.Drawing.Point(84, 132);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
